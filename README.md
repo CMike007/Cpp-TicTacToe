@@ -1,7 +1,5 @@
 # Tic Tac Toe
 
-This project is part of the course "Programming with Advanced Computer Languages" at the University of St. Gallen (HSG) held in the autumn semester of 2022. The purpose is to program the well known game Tic Tac Toe.
-
 ### Commenting
 
 Since this project is part of a University project the code is provided twice once as a plain code and once with all-encompassing comments that describe the functionaly of the different parts of the code.
